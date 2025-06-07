@@ -94,7 +94,7 @@ Source filename []? r1_nvram</pre>
 
 ### ✅ Final Flash Verification
 
-<pre>Router#show flash:
+<pre>Router#show flash:</pre>
 
 - You should now see flash.bin loaded successfully.
 
