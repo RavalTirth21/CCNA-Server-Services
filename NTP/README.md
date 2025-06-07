@@ -22,7 +22,7 @@ This project demonstrates how to configure an NTP server and synchronize time on
 
 ## 🌐 Network Topology
 
-![Topology](./01-Topology.png)
+![Topology](./01-TopologyNTP.png)
 
 ---
 
