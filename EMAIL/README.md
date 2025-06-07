@@ -106,7 +106,7 @@ We configure an Email Server along with two end devices (PC3 and PC4) to send an
 
 ## 🗂️ File Structure
 
-📁 Email-Server-Project
+📁 Email-Server-Project/
         ├── 01-Topology.png
         ├── 02-Email-Server-Configuration.png
         ├── 03-Configure-Mail-PC3.png
