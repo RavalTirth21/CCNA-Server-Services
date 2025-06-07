@@ -64,6 +64,6 @@ Router# ping 192.168.1.2                         # Send ping to generate logs</p
 ### 🧾 Syslog Server Output
 
 📷 
-![02-Logs](./01-Logs.png)
+![02-Logs](./02-Logs.png)
 
 - The Syslog server receives and displays real-time log messages, confirming that logging is working correctly.
