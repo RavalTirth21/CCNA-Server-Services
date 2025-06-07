@@ -67,7 +67,7 @@ Destination filename [c2600-i-mz.122-28.bin]? flash.bin</pre>
 
 ---
 
-4️⃣ ROMmon Configuration for IOS Recovery
+### 4️⃣ ROMmon Configuration for IOS Recovery
 
 <pre>rommon 2 > IP_ADDRESS=10.0.0.1
 rommon 3 > IP_SUBNET_MASK=255.0.0.0
@@ -82,7 +82,7 @@ After file reception completes:
 
 ---
 
-5️⃣ Restore Configurations
+### 5️⃣ Restore Configurations
 
 <pre>Router#copy tftp: running-config
 Source filename []? r1_vram</pre>
@@ -92,7 +92,7 @@ Source filename []? r1_nvram</pre>
 
 ---
 
-✅ Final Flash Verification
+### ✅ Final Flash Verification
 
 <pre>Router#show flash:
 
