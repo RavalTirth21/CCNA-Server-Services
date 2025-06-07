@@ -104,13 +104,14 @@ We configure an Email Server along with two end devices (PC3 and PC4) to send an
 
 ---
 
-## 🗂️ File Structure
+## 🗂️ Folder Structure
 
-📁 Email-Server-Project/
-        ├── 01-Topology.png
-        ├── 02-Email-Server-Configuration.png
-        ├── 03-Configure-Mail-PC3.png
-        ├── 04-Configure-Mail-PC4.png
-        ├── 05-Send-Mail-PC3.png
-        ├── 06-Receive-Mail-PC4.png
-        └── README.md
+EMAIL/
+
+    ├── 01-Topology.png
+    ├── 02-Email-Server-Configuration.png
+    ├── 03-Configure-Mail-PC3.png
+    ├── 04-Configure-Mail-PC4.png
+    ├── 05-Send-Mail-PC3.png
+    ├── 06-Receive-Mail-PC4
+    └── README.md
